@@ -65,7 +65,9 @@ I used `pip install nltk spacy flask` to install them together. Then I use `pyth
 
 ## Screenshots
 
-### Home Page#
+### Home Page
+
+![Home Page](./screenshots/Screenshot 2026-10-26 103443.png)
 
 ### Admin Pages
 
